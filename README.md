@@ -5,6 +5,6 @@ Following libraries are used
 * v4l2
 * FFmpeg
 
-Below is the sample screenshot
+Below is the sample screenshot OR click below image to watch the sample video
 
 [![Watch the video](https://github.com/abdullahfarwees/camera-frame-extracter/blob/master/screen-shot.png)](https://www.youtube.com/channel/UCIWG2UReFm5ecqOpB37vgmg)
